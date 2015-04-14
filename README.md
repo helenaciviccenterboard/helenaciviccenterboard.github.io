@@ -17,7 +17,7 @@ Make sure that you have installed:
 
 Clone the repo:
 ```
-> git clone https://github.com/[organization]/[organization].github.io
+> git clone https://github.com/[organization]/[organization].github.io.git
 ```
 
 Start up a virtual machine that is ready for Jekyll:
