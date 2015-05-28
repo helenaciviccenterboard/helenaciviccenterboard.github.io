@@ -13,8 +13,9 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
+# modify version numbers below when upgrading bootstrap
+# only the assets directory is needed from the bootstrap-sass download
 bootstrap-sass: bootstrap-sass-3.3.4
-
 sass:
     sass_dir: /bootstrap-sass-3.3.4/assets/stylesheets
     style: :compressed
