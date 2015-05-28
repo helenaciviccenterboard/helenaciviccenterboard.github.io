@@ -7,12 +7,12 @@ Make sure that you have installed:
 
 Clone the repo:
 ```
-> git clone https://github.com/[organization]/[organization].github.io.git
+> git clone https://github.com/helenaciviccenterboard/helenaciviccenterboard.github.io.git
 ```
 
 Start up a virtual machine that is ready for Jekyll:
 ```
-> cd [organization].github.io
+> cd helenaciviccenterboard.github.io
 > vagrant up
 > vagrant ssh
 > cd jekyll
