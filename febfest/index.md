@@ -1,62 +1,22 @@
 ---
 layout: default
-title: About
+title: Feb Fest
 ---
 
-A First Level Header
-====================
+# Feb Fest
 
-A Second Level Header
----------------------
+## Feb 6, 2016
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+Feb Fest is our annual chocolate, Valentine’s Day gifts, arts and crafts fair at the Helena Civic Center.
 
-The quick brown fox jumped over the lazy
-dog's back.
+With about 70 vendors, it is a fun place to get those special Valentine gifts for all the "sweeties" in your life.  There will be chocolate, treats and Valentine gifts including a host of Montana made arts, crafts and jewelry.
 
-### Header 3
+Entertainment will be provided throughout the day including door prizes and [Artwear Fashion Shows](/fashionshow).  The Artwear Fashion Shows will be at 12:00 noon and 1:30 p.m.  A snack bar with food and refreshments will also be open during the fair.  
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+All proceeds from the show will go to the Civic Center Improvement Fund.
 
-Some of these words *are emphasized*.
-Some of these words _are emphasized also_.
+## Vendor Information
 
-Use two asterisks for **strong emphasis**.
-Or, if you prefer, __use two underscores instead__.
+[Vendor Booth Registration Form](febfestregistration.pdf)
 
-*   Candy.
-*   Gum.
-*   Booze.
-
-+   Candy.
-+   Gum.
-+   Booze.
-
--   Candy.
--   Gum.
--   Booze.
-
-1.  Red
-2.  Green
-3.  Blue
-
-*   A list item.
-
-    With multiple paragraphs.
-
-*   Another item in the list.
-
-This is an [example link](http://example.com/).
-
-I get 10 times more traffic from [Google][1] than from
-[Yahoo][2] or [MSN][3].
-
-[1]: http://google.com/        "Google"
-[2]: http://search.yahoo.com/  "Yahoo Search"
-[3]: http://search.msn.com/    "MSN Search"
+Email <febfest@helenaciviccenterboard.org> for additional information.

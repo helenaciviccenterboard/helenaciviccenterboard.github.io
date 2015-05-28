@@ -1,62 +1,18 @@
 ---
 layout: default
-title: About
+title: Christmas Gift Shows
 ---
 
-A First Level Header
-====================
+# Christmas Gift Shows
 
-A Second Level Header
----------------------
+## Nov 7 & 14, 2015
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+Each November the Helena Civic Center Board presents two Christmas Gift Shows at the Civic Center Ballroom as a fund-raising event to pay for the board's renovations and improvements at the Civic Center.  The Civic Center Board's Christmas Gift shows have become a traditional social event for Helenans.  It's a pleasant way to spend a Saturday, browsing through the crafts, shopping for that special Christmas gift, visiting with friends and neighbors, and enjoying refreshments or lunch at the snack bar. Each show features over 80 crafters.  Each vendor is only allowed to exhibit in one of the shows, so **each Saturday is unique and different**, and if you miss one weekend you miss half the fun.
 
-The quick brown fox jumped over the lazy
-dog's back.
+All proceeds from the show will go to the Civic Center Improvement Fund.
 
-### Header 3
+## Vendor Information
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+[Vendor Booth Registration Form](giftshowregistration.pdf)
 
-Some of these words *are emphasized*.
-Some of these words _are emphasized also_.
-
-Use two asterisks for **strong emphasis**.
-Or, if you prefer, __use two underscores instead__.
-
-*   Candy.
-*   Gum.
-*   Booze.
-
-+   Candy.
-+   Gum.
-+   Booze.
-
--   Candy.
--   Gum.
--   Booze.
-
-1.  Red
-2.  Green
-3.  Blue
-
-*   A list item.
-
-    With multiple paragraphs.
-
-*   Another item in the list.
-
-This is an [example link](http://example.com/).
-
-I get 10 times more traffic from [Google][1] than from
-[Yahoo][2] or [MSN][3].
-
-[1]: http://google.com/        "Google"
-[2]: http://search.yahoo.com/  "Yahoo Search"
-[3]: http://search.msn.com/    "MSN Search"
+Email <info@helenaciviccenterboard.org> for additional information.
