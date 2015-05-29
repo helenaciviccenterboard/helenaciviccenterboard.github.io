@@ -17,6 +17,6 @@ Vendors who design and/or sell "Re-used", "Re-purposed", and/or "Re-considered" 
 
 ## Entry Information
 
-[Artwear Fashion Show Entry Form](fashionshowentry.doc)
+Artwear Fashion Show Entry Form will be available soon.
 
 Email <artwear@helenaciviccenterboard.org> for additional information.
