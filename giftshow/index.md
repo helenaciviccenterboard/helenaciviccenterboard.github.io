@@ -15,4 +15,4 @@ All proceeds from the show will go to the Civic Center Improvement Fund.
 
 Vendor Booth Registration Form will be available August 1, 2015.
 
-Email <info@helenaciviccenterboard.org> for additional information.
+Email <giftshow@helenaciviccenterboard.org> for additional information.
