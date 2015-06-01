@@ -3,7 +3,7 @@ layout: default
 title: Feb Fest
 ---
 
-# Feb Fest
+# Feb Fest Chocolate and Valentine’s Day Fair
 
 ## Feb 6, 2016
 
