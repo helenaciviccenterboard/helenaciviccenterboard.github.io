@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feb Fest
+title: Feb Fest Chocolate and Valentine's Day Fair
 ---
 
 # Feb Fest Chocolate and Valentine’s Day Fair
