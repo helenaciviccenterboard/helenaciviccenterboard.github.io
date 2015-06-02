@@ -1,3 +1,5 @@
+{% assign current = page.url | downcase | split: '/' %}
+
 <nav class="navbar navbar-default navbar-static-top">
   <div class="container">
     <div class="navbar-header">
@@ -11,12 +13,12 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li><a href="/giftshow">Christmas Gift Shows</a></li>
-        <li><a href="/febfest">Feb Fest</a></li>
-        <li><a href="/fashionshow">Artwear Fashion Show</a></li>
+        <li {% if current[1] == 'giftshow' %}class='active'{% endif %}><a href="/giftshow">Christmas Gift Shows</a></li>
+        <li {% if current[1] == 'febfest' %}class='active'{% endif %}><a href="/febfest">Feb Fest</a></li>
+        <li {% if current[1] == 'fashionshow' %}class='active'{% endif %}><a href="/fashionshow">Artwear Fashion Show</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="/about">About Us</a></li>
+        <li {% if current[1] == 'about' %}class='active'{% endif %}><a href="/about">About Us</a></li>
       </ul>
     </div>
   </div>
