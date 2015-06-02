@@ -15,3 +15,6 @@ bootstrap-sass: bootstrap-sass-3.3.4
 sass:
     sass_dir: /bootstrap-sass-3.3.4/assets/stylesheets
     style: :compressed
+
+gems:
+  - jekyll-sitemap
