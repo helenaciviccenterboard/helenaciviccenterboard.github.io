@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /fashion_show.html
 title: Artwear Fashion Show
 ---
 

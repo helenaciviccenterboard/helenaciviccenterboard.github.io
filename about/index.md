@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /board_members.html
 title: About Us
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /feb_fest.html
 title: Feb Fest Chocolate and Valentine's Day Fair
 ---
 

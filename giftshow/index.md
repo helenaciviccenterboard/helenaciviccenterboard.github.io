@@ -1,5 +1,8 @@
 ---
 layout: default
+redirect_from:
+  - /Christmas_Gift_Show.html
+  - /christmas_craft_show.html
 title: Christmas Gift Shows
 ---
 
