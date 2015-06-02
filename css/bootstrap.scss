@@ -11,8 +11,5 @@ $icon-font-path: "/{{ site.bootstrap-sass }}/assets/fonts/bootstrap/";
 /*this order is important*/
 @import "cerulean/variables";
 @import "bootstrap";
-<<<<<<< HEAD
 @import "cerulean/bootswatch";
-=======
->>>>>>> dab1d899e06b2c03cbbb792c58ccfc93b22bd149
 @import "bootstrap/theme";
