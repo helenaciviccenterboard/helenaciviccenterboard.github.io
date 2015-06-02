@@ -8,5 +8,8 @@
 
 $icon-font-path: "/{{ site.bootstrap-sass }}/assets/fonts/bootstrap/";
 
+/*this order is important*/
+@import "cerulean/variables";
 @import "bootstrap";
-/*@import "bootstrap/theme";*/
+@import "cerulean/bootswatch";
+@import "bootstrap/theme";
