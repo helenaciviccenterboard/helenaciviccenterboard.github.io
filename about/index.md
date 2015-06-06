@@ -2,6 +2,7 @@
 layout: default
 redirect_from: /board_members.html
 title: About Us
+description: History and purpose of the Helena Civic Center Board
 ---
 
 # About Us
@@ -46,9 +47,9 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
 
 ## Civic Center Staff
 
-* Gery Carpenter, Community Facilities Director	
-* Diane Stavnes, Civic Center Manager	
-* Barb Olsen, Administrative Assistant 
+* Gery Carpenter, Community Facilities Director
+* Diane Stavnes, Civic Center Manager
+* Barb Olsen, Administrative Assistant
 
 ## Other Sites of Interest
 

@@ -2,6 +2,7 @@
 layout: default
 redirect_from: /feb_fest.html
 title: Feb Fest Chocolate and Valentine's Day Fair
+description: Feb Fest is our annual chocolate, Valentine's Day gifts, arts and crafts fair at the Helena Civic Center.
 ---
 
 # Feb Fest
@@ -10,7 +11,7 @@ title: Feb Fest Chocolate and Valentine's Day Fair
 
 ## Feb 6, 2016
 
-Feb Fest is our annual chocolate, Valentine’s Day gifts, arts and crafts fair at the Helena Civic Center.
+Feb Fest is our annual chocolate, Valentine's Day gifts, arts and crafts fair at the Helena Civic Center.
 
 With about 70 vendors, it is a fun place to get those special Valentine gifts for all the "sweeties" in your life. There will be chocolate, treats and Valentine gifts including a host of Montana made arts, crafts and jewelry.
 

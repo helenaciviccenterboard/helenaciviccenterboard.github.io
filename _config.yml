@@ -1,8 +1,7 @@
 # Site settings
 title: Helena Civic Center Board
 email: info@helenaciviccenterboard.org
-description: > # this means to ignore newlines until "baseurl:"
-  The Civic Center Board has raised and spent over two million dollars in renovation and repairs of the Civic Center building.
+description: The Civic Center Board has raised and spent over two million dollars in renovation and repairs of the Civic Center building.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.helenaciviccenterboard.org" # the base hostname & protocol for your site
 

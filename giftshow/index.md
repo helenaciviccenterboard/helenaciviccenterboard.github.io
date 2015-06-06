@@ -4,6 +4,7 @@ redirect_from:
   - /Christmas_Gift_Show.html
   - /christmas_craft_show.html
 title: Christmas Gift Shows
+description: The Christmas Gift Shows are a pleasant way to spend a Saturday, browsing through the crafts, shopping for that special Christmas gift, visiting with friends and neighbors, and enjoying refreshments or lunch at the snack bar.
 ---
 
 # Christmas Gift Shows
