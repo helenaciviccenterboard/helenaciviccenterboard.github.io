@@ -8,9 +8,9 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  <link rel="stylesheet" href="{{ "/css/bootstrap.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="/css/bootstrap.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="{{ site.url | append: site.baseurl | append: page.url | replace:'index.html',''}}">
 
   <!-- from http://realfavicongenerator.net -->
   <link rel="apple-touch-icon" sizes="57x57" href="/icons/apple-touch-icon-57x57.png?v=lk6xLPpap0">
