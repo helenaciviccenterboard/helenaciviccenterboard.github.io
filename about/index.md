@@ -49,7 +49,7 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
 
 * Gery Carpenter, Community Facilities Director
 * Diane Stavnes, Civic Center Manager
-* Barb Olsen, Administrative Assistant
+* Bridget Johnston, Administrative Assistant
 
 ## Other Sites of Interest
 
