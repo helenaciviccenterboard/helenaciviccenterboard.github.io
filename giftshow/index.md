@@ -17,6 +17,8 @@ All proceeds from the show will go to the Civic Center Improvement Fund.
 
 ## Vendor Information
 
-Vendor Booth Registration Form will be available August 1, 2015.
+[Vendor Booth Registration materials](2015-helena-civic-center-gift-show.pdf) are now available!   
+
+Registrations will be accepted beginning August 1, 2015.
 
 Email <giftshow@helenaciviccenterboard.org> for additional information.
