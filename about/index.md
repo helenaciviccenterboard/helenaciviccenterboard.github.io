@@ -33,7 +33,6 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
 * Tammy Andridge
 * Tim Andridge
 * John Cameron
-* Steve Crider
 * Mike DaSilva
 * C.W. "Skip" Hatveldt
 * Riley Johnson
@@ -42,6 +41,7 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
 * Kathleen Pace
 * Trevor Parrish
 * E. Rick Schlenker
+* Kendall Stewart
 * Bo Turnbow
 * Craig Wilkerson
 
