@@ -21,6 +21,6 @@ All proceeds from the show will go to the Civic Center Improvement Fund.
 
 ## Vendor Information
 
-Vendor Booth Registration Form will be available soon.
+Vendor applications will be available here in November and we will begin accepting them December 1st.
 
 Email <febfest@helenaciviccenterboard.org> for additional information.
