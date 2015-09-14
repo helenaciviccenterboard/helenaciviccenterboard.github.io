@@ -32,7 +32,6 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
 * Brad Culver, Treasurer
 * Tammy Andridge
 * Tim Andridge
-* John Cameron
 * Mike DaSilva
 * C.W. "Skip" Hatveldt
 * Riley Johnson
