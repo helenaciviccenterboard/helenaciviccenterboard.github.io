@@ -21,4 +21,18 @@ All proceeds from the show will go to the Civic Center Improvement Fund.
 
 Registrations will be accepted beginning August 1, 2015.
 
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">9/14/15 Update</h3>
+  </div>
+  <div class="panel-body">
+    <p>
+      The Nov 7 show is completely full as of today. Any vendor registrations received after the last open spot was assigned, will be contacted to see if they would like to sign up for the Nov 14 show or be placed on our waiting list.
+    </p>
+    <p>
+      There are still spaces available for the Nov 15 show, but it is filling up fast!There will be a waiting list started for that show if needed. If you have any questions, please send them to the email address below.
+    </p>
+  </div>
+</div>
+
 Email <giftshow@helenaciviccenterboard.org> for additional information.
