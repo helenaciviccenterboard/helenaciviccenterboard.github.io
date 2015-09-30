@@ -23,6 +23,20 @@ Registrations will be accepted beginning August 1, 2015.
 
 <div class="panel panel-default">
   <div class="panel-heading">
+    <h3 class="panel-title">9/29/15 Update</h3>
+  </div>
+  <div class="panel-body">
+    <p>
+      Both the Nov 7 and Nov 14 shows are now full. Final confirmations will be sent this week for registrations that were received prior to the shows being filled.
+    </p>
+    <p>
+      Vendor registrations received after the last open spot was assigned, will be notified and added to our waiting list. Payments for waiting list vendors will only be processed if space becomes available. If you have any questions, please send them to the email address below.
+    </p>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
     <h3 class="panel-title">9/14/15 Update</h3>
   </div>
   <div class="panel-body">
