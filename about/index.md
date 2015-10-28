@@ -52,6 +52,6 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
 
 ## Other Sites of Interest
 
-* [City of Helena Civic Center](http://www.ci.helena.mt.us/departments/community-facilities/civic-center.html)
+* [City of Helena Civic Center](http://www.helenaciviccenter.com/)
 * [Downtown Helena](http://www.downtownhelena.com/)
 * [Helena Chamber of Commerce](http://www.helenachamber.com/)
