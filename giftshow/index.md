@@ -20,3 +20,7 @@ All proceeds from the show will go to the Civic Center Improvement Fund.
 Email <giftshow@helenaciviccenterboard.org> for additional information.
 
 <p><a class="btn btn-primary" href="vendors/" role="button">Vendor Information</a></p>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe width="420" height="315" frameborder="0" src="https://www.youtube.com/embed/YO03dC3fgNw" allowfullscreen=""></iframe>
+</div>
