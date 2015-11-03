@@ -1,7 +1,8 @@
 machine:
+  timezone: America/Denver
   ruby:
     version: 2.1.1
 
 test:
-  post:
-   - bundle exec jekyll build
+  override:
+   - bundle exec rake test
