@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/helenaciviccenterboard/helenaciviccenterboard.github.io.svg?style=svg)](https://circleci.com/gh/helenaciviccenterboard/helenaciviccenterboard.github.io)
+
 # How to Work Locally
 
 Make sure that you have installed:
