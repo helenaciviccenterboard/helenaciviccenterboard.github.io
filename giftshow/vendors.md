@@ -7,7 +7,7 @@ permalink: /giftshow/vendors/
 
 # Vendor Information
 
-The shows for 2015 will be Nov. 7th and 14th . To allow for the greatest number of participants, each individual (or group) may book space for **one day only**. [Registrations](/giftshow/2015-helena-civic-center-gift-show.pdf) will be accepted beginning August 1, 2015.
+The shows for 2015 will be Nov. 7th and 14th. To allow for the greatest number of participants, each individual (or group) may book space for **one day only**. [Registrations](/giftshow/2015-helena-civic-center-gift-show.pdf) will be accepted beginning August 1, 2015.
 
 Email <giftshow@helenaciviccenterboard.org> for additional information.
 
