@@ -19,13 +19,14 @@ task :test => [:build] do
     {
       :check_favicon => true,
       :check_html => true,
-      :file_ignore =>
-        ["Christmas_Gift_Show.html",
-        "board_members.html",
-        "christmas_craft_show.html",
-        "fashion_show.html",
-        "feb_fest.html",
-        "home.html"]
+      :file_ignore => [
+        "./_site/Christmas_Gift_Show.html",
+        "./_site/board_members.html",
+        "./_site/christmas_craft_show.html",
+        "./_site/fashion_show.html",
+        "./_site/feb_fest.html",
+        "./_site/home.html"
+      ]
     }
   ).run
 end
