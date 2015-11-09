@@ -56,4 +56,3 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
 * [Downtown Helena](http://www.downtownhelena.com/)
 * [Helena Chamber of Commerce](http://www.helenachamber.com/)
 
-{% gist boturnbow/469e31ef2043a6b49a1f %}
