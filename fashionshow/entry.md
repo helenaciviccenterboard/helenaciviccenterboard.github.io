@@ -15,6 +15,6 @@ There are **two** Fashion Shows - 12:00 p.m. and 1:30 p.m in the Civic Center Ba
 
 Artwear must be made from at least 50% recycled or reused materials that would otherwise be discarded or recycled. Let your imagination run wild and send us photos of your work (up to three photos per piece). We'll have the hard job of choosing pieces to include in the style show. Don’t be shy, all entries are welcome. There’s **no application fee** for pieces submitted. We want to encourage your participation.
 
-Please complete the [Artwear Fashion Show Entry Form](ARTWEAR-ENTRY-FORM-2016.doc) for each artwear piece. Entries are due Mon. Jan. 25, 2016.
+Please complete the [Artwear Fashion Show Entry Form](/fashionshow/ARTWEAR-ENTRY-FORM-2016.doc) for each artwear piece. Entries are due Mon. Jan. 25, 2016.
 
 Email <artwear@helenaciviccenterboard.org> for additional information.
