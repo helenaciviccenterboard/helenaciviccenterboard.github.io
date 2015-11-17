@@ -7,21 +7,13 @@ permalink: /giftshow/vendors/
 
 # Vendor Information
 
-The shows for 2015 will be Nov. 7th and 14th. To allow for the greatest number of participants, each individual (or group) may book space for **one day only**. [Registrations](/giftshow/2015-helena-civic-center-gift-show.pdf) will be accepted beginning August 1, 2015.
+The shows for 2016 will be Nov. 5th and 12th. To allow for the greatest number of participants, each individual (or group) may book space for **one day only**.
+
+Registration information will be available online and emails will be sent to vendors in July.  
+
+Registrations will be accepted beginning August 1, 2016.  Submitting a registration does not guarantee space in either show.  Confirmations are sent beginning in September.  If the show is full when your registration is received, you will be contacted via phone or email to be put on the waiting list.
 
 Email <giftshow@helenaciviccenterboard.org> for additional information.
-
-## Sep. 29, 2015 Update
-
-**Both the Nov 7 and Nov 14 shows are now full.** Final confirmations will be sent this week for registrations that were received prior to the shows being filled.
-
-Vendor registrations received after the last open spot was assigned, will be notified and added to our waiting list. Payments for waiting list vendors will only be processed if space becomes available. Please [email](mailto:giftshow@helenaciviccenterboard.org) if you have any questions.
-
-## Sep. 14, 2015 Update
-
-**The Nov 7 show is completely full as of today.** Any vendor registrations received after the last open spot was assigned, will be contacted to see if they would like to sign up for the Nov 14 show or be placed on our waiting list.
-
-There are still spaces available for the Nov 14 show, but it is filling up fast! There will be a waiting list started for that show if needed. Please [email](mailto:giftshow@helenaciviccenterboard.org) if you have any questions.
 
 ## Booth Rental Information
 

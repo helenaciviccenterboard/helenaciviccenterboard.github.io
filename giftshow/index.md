@@ -9,7 +9,7 @@ description: The Christmas Gift Shows are a pleasant way to spend a Saturday, br
 
 # Christmas Gift Shows
 
-## Nov 7 & 14, 2015
+## Nov 5 & 12, 2016
 
 **Admission is $2. Shoppers ten and under are free!**
 
