@@ -6,3 +6,7 @@ machine:
 test:
   override:
    - bundle exec rake test
+
+general:
+  artifacts:
+    - "_site"
