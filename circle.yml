@@ -6,9 +6,3 @@ machine:
 test:
   override:
    - bundle exec rake test
-
-deployment:
-  staging:
-    branch: master
-    commands:
-      - tar cvzf $CIRCLE_ARTIFACTS/site.tar.gz _site
