@@ -2,17 +2,17 @@ require 'html/proofer'
 
 task :default => [:serve]
 
-desc "build site"
+desc "Build site."
 task :build do
   sh "bundle exec jekyll build"
 end
 
-desc "serve site"
+desc "Serve site."
 task :serve do
   sh "bundle exec jekyll serve --force_polling"
 end
 
-desc "test site"
+desc "Test site."
 task :test => [:build] do
   HTML::Proofer.new(
     "./_site",
