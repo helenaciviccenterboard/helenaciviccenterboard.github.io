@@ -27,9 +27,15 @@ Start up a virtual machine that is ready for Jekyll:
 
 Start Jekyll server:
 ```
-> bundle exec jekyll serve --host 0.0.0.0 --force_polling
+> rake
 ```
 
 Edit in the host OS. Find the website at http://192.168.33.10:4000/
 
 Commit changes and push to the master branch to deploy to production.
+
+Run tests:
+
+```
+> rake test
+```
