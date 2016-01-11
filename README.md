@@ -2,26 +2,18 @@
 
 # How to Work Locally
 
-Make sure that you have installed:
-* git
-* VirtualBox
-* Vagrant
+* [Install rbenv](https://github.com/rbenv/rbenv#installation)
+* [Install ruby-build](https://github.com/rbenv/ruby-build#installation)
+* [Install ruby-build-github](https://github.com/parkr/ruby-build-github#installation)
 
 Clone the repo:
 ```
 > git clone https://github.com/helenaciviccenterboard/helenaciviccenterboard.github.io.git
 ```
 
-Start up a virtual machine that is ready for Jekyll:
-```
-> cd helenaciviccenterboard.github.io
-> vagrant up
-> vagrant ssh
-> cd jekyll
-```
-
 [Install Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) (first time only):
 ```
+> cd helenaciviccenterboard.github.io
 > bundle install
 ```
 
@@ -30,7 +22,7 @@ Start Jekyll server:
 > rake
 ```
 
-Edit in the host OS. Find the website at http://192.168.33.10:4000/
+Edit in the host OS. Find the website at http://localhost:4000/
 
 Commit changes and push to the master branch to deploy to production.
 
