@@ -13,7 +13,7 @@ permalink: /febfest/vendors/
   </div>
   <div class="panel-body">
     <p>
-      <b>Feb Fest is now full.</b> Vendor registrations received after the last open spot was assigned, will be notified and added to our waiting list. Payments for waiting list vendors will only be processed if space becomes available. If you have any questions, please [email us](mailto:febfest@helenaciviccenterboard.org).
+      <b>Feb Fest is now full.</b> Vendor registrations received after the last open spot was assigned, will be notified and added to our waiting list. Payments for waiting list vendors will only be processed if space becomes available. If you have any questions, please <a href="mailto:febfest@helenaciviccenterboard.org">email us</a>.
     </p>
   </div>
 </div>
