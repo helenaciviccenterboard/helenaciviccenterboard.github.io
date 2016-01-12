@@ -1,6 +1,15 @@
 # Site settings
 title: Helena Civic Center Board
 
+# https://github.com/benbalter/jekyll-seo-tag#usage
+# define image: on each page
+logo: icons/apple-touch-icon-180x180.png
+social:
+  type: Organization
+  name: Helena Civic Center Board
+  links:
+    - https://www.facebook.com/Helena-Civic-Center-Board-Page-944361142309331
+
 google_analytics_id: UA-63713244-1
 
 # Build settings
@@ -16,5 +25,6 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
-exclude: [vendor]
+exclude: [vendor, circle.yml, CNAME, Gemfile, Gemfile.lock, Rakefile, README.md]
