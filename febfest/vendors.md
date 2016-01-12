@@ -7,6 +7,17 @@ permalink: /febfest/vendors/
 
 # Vendor Information
 
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Jan 12, 2016 Update</h3>
+  </div>
+  <div class="panel-body">
+    <p>
+      <b>Feb Fest is now full.</b> Vendor registrations received after the last open spot was assigned, will be notified and added to our waiting list. Payments for waiting list vendors will only be processed if pace becomes available. If you have any questions, please send them to the email address below.
+    </p>
+  </div>
+</div>
+
 The show for 2016 will be Feb. 6. [Registrations](/febfest/2016FebFestVendorBoothRegistration.pdf) will be accepted beginning December 1, 2015.
 
 Email <febfest@helenaciviccenterboard.org> for additional information.
