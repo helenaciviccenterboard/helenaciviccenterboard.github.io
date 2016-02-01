@@ -9,7 +9,7 @@ end
 
 desc "Serve site."
 task :serve do
-  sh "bundle exec jekyll serve --force_polling"
+  sh "bundle exec jekyll serve"
 end
 
 desc "Test site."
