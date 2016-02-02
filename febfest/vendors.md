@@ -2,6 +2,7 @@
 layout: default
 title: Vendor Information for Feb Fest
 description: Information for vendors on registering for the Feb Fest.
+permalink: /febfest/vendors/
 ---
 
 # Vendor Information
