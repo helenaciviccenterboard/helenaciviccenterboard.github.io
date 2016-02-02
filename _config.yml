@@ -14,13 +14,14 @@ google_analytics_id: UA-63713244-1
 
 # Build settings
 markdown: kramdown
+timezone: US/Mountain
 
 # modify version numbers below when upgrading bootstrap
 # only the assets directory is needed from the bootstrap-sass download
 bootstrap-sass: bootstrap-sass-3.3.4
 sass:
-    sass_dir: /bootstrap-sass-3.3.4/assets/stylesheets
-    style: :compressed
+  sass_dir: /bootstrap-sass-3.3.4/assets/stylesheets
+  style: :compressed
 
 gems:
   - jekyll-sitemap
