@@ -28,4 +28,11 @@ gems:
   - jekyll-redirect-from
   - jekyll-seo-tag
 
-exclude: [vendor, circle.yml, CNAME, Gemfile, Gemfile.lock, Rakefile, README.md]
+exclude:
+  - vendor
+  - circle.yml
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
