@@ -4,7 +4,6 @@
 
 * [Install rbenv](https://github.com/rbenv/rbenv#installation)
 * [Install ruby-build](https://github.com/rbenv/ruby-build#installation)
-* [Install ruby-build-github](https://github.com/parkr/ruby-build-github#installation)
 
 Clone the repo:
 ```
@@ -22,7 +21,7 @@ Start Jekyll server:
 > rake
 ```
 
-Edit in the host OS. Find the website at http://localhost:4000/
+Edit and view changes at http://localhost:4000/
 
 Commit changes and push to the master branch to deploy to production.
 
