@@ -29,7 +29,7 @@ Email <giftshow@helenaciviccenterboard.org> for additional information.
 
 ## Set-up and Sale Day Information
 
-* The Helena Civic Center is located at [340 Neill Avenue in Downtown Helena, Montana](http://www.helenaciviccenter.com/location-and-parking.html#c49).
+* The Helena Civic Center is located at [340 Neill Avenue in Downtown Helena, Montana](http://www.helenaciviccenter.com/locationparking.html).
 * Friday set-up is included in registration fee and is available from 3:30 - 7 PM only (please indicate set-up preference on registration form).
 * Saturday set-up begins at 7 AM and must be completed by 9 AM.
 * Sale is open to the public from 9 AM - 4 PM each Saturday. Displays are to be kept in place until sale closes.
