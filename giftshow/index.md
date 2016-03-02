@@ -7,9 +7,7 @@ title: Christmas Gift Shows
 description: The Christmas Gift Shows are a pleasant way to spend a Saturday, browsing through the crafts, shopping for that special Christmas gift, visiting with friends and neighbors, and enjoying refreshments or lunch at the snack bar.
 ---
 
-# Christmas Gift Shows
-
-## Nov 5 & 12, 2016
+## Nov. 5 & 12, 2016
 
 **Admission is $2. Shoppers ten and under are free!**
 
