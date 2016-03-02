@@ -5,11 +5,7 @@ title: Feb Fest Chocolate and Valentine's Day Fair
 description: Feb Fest is our annual chocolate, Valentine's Day gifts, arts and crafts fair at the Helena Civic Center.
 ---
 
-# Feb Fest
-
-## Chocolate and Valentine’s Day Fair
-
-## Feb 6, 2016
+## Feb. 11, 2017
 
 **Admission is $2. Shoppers ten and under are free!**
 

@@ -5,9 +5,7 @@ title: Artwear Fashion Show
 description: From elegant to avant garde, from accessories to footwear and everything in between, anything wearable is fair game for an artist's transformation to wearable art.
 ---
 
-# Artwear Fashion Show
-
-## Feb 6, 2016
+## Feb. 11, 2017
 
 The Artwear Fashion Shows will be held at 12:00 p.m. and 1:30 p.m in the Civic Center Ballroom.
 
