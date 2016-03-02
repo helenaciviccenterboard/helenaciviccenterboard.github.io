@@ -5,8 +5,6 @@ title: About Us
 description: History and purpose of the Helena Civic Center Board
 ---
 
-# About Us
-
 ## History
 
 The Helena Civic Center was built in 1920 as a Shrine temple for the northwest area, and it was sold to the City of Helena for a mere pittance after the 1932 earthquake.  As recently as the 1980’s, all of the City of Helena offices were housed in the building, even though it was never intended to be used as an office building.  The city leaders were studying what was to become of the building when the day came that they moved city offices elsewhere.  A charette was held, and suggestions were gathered from civic leaders, representatives from the arts, businesses and other interested parties to determine what should be the future of this wonderful Helena landmark.
@@ -55,4 +53,3 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
 * [City of Helena Civic Center](http://www.helenaciviccenter.com/)
 * [Downtown Helena](http://www.downtownhelena.com/)
 * [Helena Chamber of Commerce](http://www.helenachamber.com/)
-
