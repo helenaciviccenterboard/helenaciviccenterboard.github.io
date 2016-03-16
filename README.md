@@ -40,7 +40,7 @@ Use these domains in marketing materials to get visitors to the right page quick
 
 ## Developer Links
 
-- [Developer Info](http://www.helenaciviccenterboard.org/info/)
+- [Developer Info](http://www.helenaciviccenterboard.org/info)
 - [Sitemap](http://www.helenaciviccenterboard.org/sitemap.xml) for SEO
 - [robots.txt](http://www.helenaciviccenterboard.org/robots.txt)
 - [CircleCI](https://circleci.com/gh/helenaciviccenterboard/www.helenaciviccenterboard.org)
