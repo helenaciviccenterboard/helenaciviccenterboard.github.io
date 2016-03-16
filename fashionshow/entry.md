@@ -2,7 +2,6 @@
 layout: default
 title: Entry Information for Artwear Fashion Show
 description: Information for artists to enter the Artwear Fashion Show.
-permalink: /fashionshow/entry/
 ---
 
 ## Feb. 11, 2017

@@ -2,7 +2,6 @@
 layout: default
 title: Vendor Information for Christmas Gift Shows
 description: Information for vendors on registering for the Christmas Gift Shows.
-permalink: /giftshow/vendors/
 ---
 
 ## Nov. 5 & 12, 2016
