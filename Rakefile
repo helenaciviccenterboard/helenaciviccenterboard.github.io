@@ -1,4 +1,4 @@
-require 'html/proofer'
+require 'html-proofer'
 
 task :default => [:serve]
 
@@ -14,7 +14,7 @@ end
 
 desc "Test site."
 task :test => [:build] do
-  HTML::Proofer.new(
+  HTMLProofer.check_directory(
     "./_site",
     {
       :check_favicon => true,
