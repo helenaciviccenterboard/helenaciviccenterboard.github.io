@@ -20,6 +20,7 @@ task :test => [:build] do
       :check_favicon => true,
       :check_html => true,
       :assume_extension => true,
+      :cache => { :timeframe => '1h' },
       :file_ignore => [
         "./_site/Christmas_Gift_Show.html",
         "./_site/board_members.html",
