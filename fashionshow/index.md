@@ -17,6 +17,6 @@ Enjoy the show and then take some pieces home! Artists who participate in the sh
 
 We want to encourage **your** participation! There is **no application fee** for submissions. Artwear must be made from at least 50% recycled or reused materials that would otherwise be discarded or recycled. Let your imagination run wild!
 
-<p><a class="btn btn-primary" href="entry" role="button">Entry Information</a></p>
+<p><a class="btn btn-primary" href="entry/" role="button">Entry Information</a></p>
 
 Email <artwear@helenaciviccenterboard.org> for additional information.

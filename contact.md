@@ -2,6 +2,7 @@
 layout: default
 title: Contact Us
 description: Contact information
+permalink: /contact/
 ---
 
 Helena Civic Center Board  
