@@ -15,10 +15,12 @@ sitemap: false
       {% assign pages = layout.items | sort: "url" %}
       {% for page in pages %}
         <li>
-          <a href="{{ site.github.url | append: page.url }}">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</a> - {{ site.github.url | append: page.url }}
+          <a href="{{ site.github.url | append: page.url }}">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</a>
           <dl class="dl-horizontal">
+            <dt>URL</dt>
+            <dd>{{ site.github.url | append: page.url }}</dd>
             <dt>Edit</dt>
-            <dd><a href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">View on GitHub</a></dd>
+            <dd><a href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">{{ site.github.repository_url }}/blob/master/{{ page.path }}</a></dd>
             <dt><code>description:</code></dt>
             <dd>{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</dd>
             {% if page.permalink %}

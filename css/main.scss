@@ -4,3 +4,9 @@
 .jumbotron {
 	margin-top: -20px;
 }
+
+.site-info {
+  &>li { margin-bottom: 1em; }
+  dl { margin-bottom: 0;}
+  dt { font-weight: normal; }
+}
