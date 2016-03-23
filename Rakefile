@@ -27,7 +27,8 @@ task :test => [:build] do
         "./_site/christmas_craft_show.html",
         "./_site/fashion_show.html",
         "./_site/feb_fest.html",
-        "./_site/home.html"
+        "./_site/home.html",
+        "./_site/info.html"
       ]
     }
   ).run
