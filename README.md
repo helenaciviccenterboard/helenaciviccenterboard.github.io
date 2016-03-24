@@ -10,7 +10,7 @@ Website for Helena Civic Center Board.
 - [Markdown](#markdown)
 - [Hosting and DNS](#hosting-and-dns)
 - [Other Domain Names](#other-domain-names)
-- [Developer Links](#developer-links)
+- [Site Information](#site-information)
 - [How to Work Locally](#how-to-work-locally)
 
 ## How to Update This Site
@@ -38,12 +38,15 @@ Use these domains in marketing materials to get visitors to the right page quick
 - [febfest.com](http://febfest.com/) redirects to http://www.helenaciviccenterboard.org/febfest/
 - [helenaciviccenterboard.com](http://helenaciviccenterboard.com/) redirects to http://www.helenaciviccenterboard.org/
 
-## Developer Links
+## Site Information
 
-- [Developer Info](http://www.helenaciviccenterboard.org/info)
+- [Site Info](http://www.helenaciviccenterboard.org/info)
 - [Sitemap](http://www.helenaciviccenterboard.org/sitemap.xml) for SEO
 - [robots.txt](http://www.helenaciviccenterboard.org/robots.txt)
 - [CircleCI](https://circleci.com/gh/helenaciviccenterboard/www.helenaciviccenterboard.org)
+- Open Graph (Facebook) [Documentation](https://developers.facebook.com/docs/sharing/webmasters), [Object Debugger](https://developers.facebook.com/tools/debug/)
+- Structured Data (Google) [Documentation](https://developers.google.com/structured-data/), [Testing Tool](https://developers.google.com/structured-data/testing-tool/)
+- Twitter Cards: [Documentation](https://dev.twitter.com/cards/overview), [Validator](https://cards-dev.twitter.com/validator)
 
 ## How to Work Locally
 
@@ -55,10 +58,10 @@ Clone the repo:
 > git clone https://github.com/helenaciviccenterboard/helenaciviccenterboard.github.io.git
 ```
 
-[Install Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) (first time only):
-```
+Install Jekyll:
+```sh
 > cd helenaciviccenterboard.github.io
-> bundle install
+> bundle install # same to update
 ```
 
 Start Jekyll server:
