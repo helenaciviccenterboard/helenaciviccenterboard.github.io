@@ -3,4 +3,4 @@ machine:
 
 test:
   override:
-   - bundle exec rake test
+   - bundle exec rake spec
