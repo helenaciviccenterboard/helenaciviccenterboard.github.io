@@ -8,3 +8,4 @@ gem 'github-pages', versions['github-pages']
 gem 'rake'
 gem 'html-proofer'
 gem 'rspec'
+gem 'rspec_junit_formatter', '0.2.2'
