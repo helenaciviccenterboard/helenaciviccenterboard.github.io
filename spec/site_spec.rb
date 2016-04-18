@@ -28,7 +28,7 @@ describe 'Web site' do
           "_site/feb_fest.html",
           "_site/home.html"
         ],
-        :url_ignore => [/blob/],
+        :url_ignore => [/blob/]
       }
     ).run
     expect(status).to eql(true)
