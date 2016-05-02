@@ -29,16 +29,16 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
 * Judy Kline, President
 * Joann Christnacht, Vice President
 * Brad Culver, Treasurer
-* Tammy Andridge
 * Tim Andridge
+* Steve Crider
 * Mike DaSilva
 * C.W. "Skip" Hatveldt
 * Riley Johnson
 * Bonnie Lorang
-* Sherry O'Donnell
 * Kathleen Pace
 * Trevor Parrish
 * E. Rick Schlenker
+* Glenda Seipp
 * Kendall Stewart
 * Bo Turnbow
 * Craig Wilkerson
