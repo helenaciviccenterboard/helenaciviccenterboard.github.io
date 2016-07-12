@@ -9,7 +9,7 @@ permalink: /giftshow/vendors/
 
 To allow for the greatest number of participants, each individual (or group) may book space for **one day only**.
 
-Registration information will be available online and emails will be sent to vendors in July.  
+The **[Gift Show Registration form](2016%20Helena%20Civic%20Center%20Gift%20Show%20Info%20and%20Registration.pdf)** is now available!
 
 Registrations will be accepted beginning Aug. 1, 2016.  Submitting a registration does not guarantee space in either show.  Confirmations are sent beginning in September.  If the show is full when your registration is received, you will be contacted via phone or email to be put on the waiting list.
 
