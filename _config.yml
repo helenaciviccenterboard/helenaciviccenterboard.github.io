@@ -13,7 +13,10 @@ social:
 google_analytics_id: UA-63713244-1
 
 # Build settings
-markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
 timezone: US/Mountain
 
 # modify version numbers below when upgrading bootstrap
