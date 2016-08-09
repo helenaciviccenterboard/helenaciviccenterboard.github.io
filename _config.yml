@@ -5,19 +5,11 @@ title: Helena Civic Center Board
 # define image: on each page
 logo: icons/apple-touch-icon-180x180.png
 social:
-  type: Organization
   name: Helena Civic Center Board
   links:
     - https://www.facebook.com/Helena-Civic-Center-Board-Page-944361142309331
 
 google_analytics_id: UA-63713244-1
-
-# Build settings
-kramdown:
-  input: GFM
-  hard_wrap: true
-
-timezone: US/Mountain
 
 # modify version numbers below when upgrading bootstrap
 # only the assets directory is needed from the bootstrap-sass download
@@ -26,13 +18,19 @@ sass:
   sass_dir: /bootstrap-sass-3.3.4/assets/stylesheets
   style: :compressed
 
+# Build settings
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-seo-tag
 
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+timezone: US/Mountain
+
 exclude:
-  - vendor
   - .rspec
   - .ruby-version
   - circle.yml
@@ -42,3 +40,4 @@ exclude:
   - Rakefile
   - README.md
   - spec
+  - vendor
