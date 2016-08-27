@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: picture
 redirect_from: /fashion_show.html
 title: Artwear Fashion Show
 description: From elegant to avant garde, from accessories to footwear and everything in between, anything wearable is fair game for an artist's transformation to wearable art.
+img:
+  alt: Fashion Show
+  src: /img/fashion.jpeg
 ---
 
 ## Feb. 11, 2017
