@@ -26,28 +26,136 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
 
 ## Board Members
 
-* Judy Kline, President
-* Joann Christnacht, Vice President
-* Brad Culver, Treasurer
-* Tim Andridge
-* Steve Crider
-* Mike DaSilva
-* C.W. "Skip" Hatveldt
-* Riley Johnson
-* Bonnie Lorang
-* Kathleen Pace
-* Trevor Parrish
-* E. Rick Schlenker
-* Glenda Seipp
-* Kendall Stewart
-* Bo Turnbow
-* Craig Wilkerson
+<div class="row">
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Judy.jpg" alt="Judy Kline">
+    <div class="caption">
+      <p>Judy Kline<br>President</p>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Joann.jpg" alt="Joann Christnacht">
+    <div class="caption">
+      <p>Joann Christnacht<br>Vice President</p>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Brad.jpg" alt="Brad Culver">
+    <div class="caption">
+      <p>Brad Culver<br>Treasurer</p>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/missing.png" alt="Tim Andridge">
+    <div class="caption">
+      <p>Tim Andridge</p>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Steve.jpg" alt="Steve Crider">
+    <div class="caption">
+      <p>Steve Crider</p>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Mike.jpg" alt="Mike DaSilva">
+    <div class="caption">
+      <p>Mike DaSilva</p>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Skip.jpg" alt="C.W. &quot;Skip&quot; Hatveldt">
+    <div class="caption">
+      <p>C.W. "Skip" Hatveldt</p>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Riley.jpg" alt="Riley Johnson">
+    <div class="caption">
+      <p>Riley Johnson</p>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Bonnie.jpg" alt="Bonnie Lorang">
+    <div class="caption">
+      <p>Bonnie Lorang</p>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Kathleen.jpg" alt="Kathleen Pace">
+    <div class="caption">
+      <p>Kathleen Pace</p>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Trevor.jpg" alt="Trevor Parrish">
+    <div class="caption">
+      <p>Trevor Parrish</p>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/missing.png" alt="E. Rick Schlenker">
+    <div class="caption">
+      <p>E. Rick Schlenker</p>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/missing.png" alt="Glenda Seipp">
+    <div class="caption">
+      <p>Glenda Seipp</p>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/missing.png" alt="Kendall Stewart">
+    <div class="caption">
+      <p>Kendall Stewart</p>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/missing.png" alt="Bo Turnbow">
+    <div class="caption">
+      <p>Bo Turnbow</p>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Craig.jpg" alt="Craig Wilkerson">
+    <div class="caption">
+      <p>Craig Wilkerson</p>
+    </div>
+  </div>
+</div>
 
 ## Civic Center Staff
 
-* Gery Carpenter, Community Facilities Director
-* Diane Stavnes, Civic Center Manager
-* Bridget Johnston, Administrative Assistant
+<div class="row">
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/Gery.jpg" alt="Gery Carpenter">
+    <div class="caption">
+      <p>Gery Carpenter<br>Community Facilities Director</p>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/missing.png" alt="Bridget Johnston">
+    <div class="caption">
+      <p>Bridget Johnston<br>Administrative Assistant</p>
+    </div>
+  </div>
+</div>
 
 ## Other Sites of Interest
 
