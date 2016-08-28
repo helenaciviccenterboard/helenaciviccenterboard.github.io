@@ -45,15 +45,15 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
       <p>Brad Culver<br>Treasurer</p>
     </div>
   </div>
-</div>
-
-<div class="row">
   <div class="col-xs-6 col-md-3 text-center">
     <img src="/img/board/missing.png" alt="Tim Andridge">
     <div class="caption">
       <p>Tim Andridge</p>
     </div>
   </div>
+  </div>
+
+  <div class="row">
   <div class="col-xs-6 col-md-3 text-center">
     <img src="/img/board/Steve.jpg" alt="Steve Crider">
     <div class="caption">
@@ -66,9 +66,6 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
       <p>Mike DaSilva</p>
     </div>
   </div>
-</div>
-
-<div class="row">
   <div class="col-xs-6 col-md-3 text-center">
     <img src="/img/board/Skip.jpg" alt="C.W. &quot;Skip&quot; Hatveldt">
     <div class="caption">
@@ -81,15 +78,15 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
       <p>Riley Johnson</p>
     </div>
   </div>
+  </div>
+
+  <div class="row">
   <div class="col-xs-6 col-md-3 text-center">
     <img src="/img/board/Bonnie.jpg" alt="Bonnie Lorang">
     <div class="caption">
       <p>Bonnie Lorang</p>
     </div>
   </div>
-</div>
-
-<div class="row">
   <div class="col-xs-6 col-md-3 text-center">
     <img src="/img/board/Kathleen.jpg" alt="Kathleen Pace">
     <div class="caption">
@@ -129,9 +126,6 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
       <p>Bo Turnbow</p>
     </div>
   </div>
-</div>
-
-<div class="row">
   <div class="col-xs-6 col-md-3 text-center">
     <img src="/img/board/Craig.jpg" alt="Craig Wilkerson">
     <div class="caption">
