@@ -15,6 +15,18 @@ Registrations will be accepted beginning Aug. 1, 2016.  Submitting a registratio
 
 Email <giftshow@helenaciviccenterboard.org> for additional information.
 
+----
+
+## Sep. 19, 2016  Update
+
+**Both the Nov 5 and 12 shows are now full.**  Final confirmations will be sent this week for registrations that were received prior to the show being filled.    
+
+Vendor registrations received after the last open spot was assigned, will be notified and added to our waiting list.  Payments for waiting list vendors will only be processed if space becomes available.
+
+If you have any questions, please email <giftshow@helenaciviccenterboard.org>.
+
+----
+
 ## Sep. 6, 2016  Update
 
 **The Nov 5 show is full.**  Final confirmations will be sent this week for registrations that were received prior to the show being filled.    
@@ -22,6 +34,8 @@ Email <giftshow@helenaciviccenterboard.org> for additional information.
 Vendor registrations received after the last open spot was assigned, will be notified and added to our waiting list.  Payments for waiting list vendors will only be processed if space becomes available.
 
 If you have any questions, please email <giftshow@helenaciviccenterboard.org>.
+
+----
 
 ## Booth Rental Information
 
