@@ -109,7 +109,7 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
 
 <div class="row">
   <div class="col-xs-6 col-md-3 text-center">
-    <img src="/img/board/missing.png" alt="Glenda Seipp">
+    <img src="/img/board/Glenda.jpg" alt="Glenda Seipp">
     <div class="caption">
       <p>Glenda Seipp</p>
     </div>
