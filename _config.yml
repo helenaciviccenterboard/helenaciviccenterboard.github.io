@@ -1,7 +1,5 @@
 # Site settings
 title: Helena Civic Center Board
-# github:
-#   url: http://localhost:4000
 
 # https://github.com/benbalter/jekyll-seo-tag#usage
 # define image: on each page
@@ -22,9 +20,10 @@ sass:
 
 # Build settings
 gems:
-  - jekyll-sitemap
+  - jekyll-github-metadata
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 kramdown:
   input: GFM

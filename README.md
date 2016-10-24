@@ -48,7 +48,7 @@ Use these domains in marketing materials to get visitors to the right page quick
 - Structured Data (Google) [Documentation](https://developers.google.com/structured-data/), [Testing Tool](https://developers.google.com/structured-data/testing-tool/)
 - Twitter Cards: [Documentation](https://dev.twitter.com/cards/overview), [Validator](https://cards-dev.twitter.com/validator)
 
-## How to Work Locally
+## How to Work Locally on Linux/MacOS
 
 * [Install rbenv](https://github.com/rbenv/rbenv#installation)
 * [Install ruby-build](https://github.com/rbenv/ruby-build#installation)
