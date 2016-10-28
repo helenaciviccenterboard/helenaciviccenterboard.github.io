@@ -24,6 +24,10 @@ Most of the pages on this site are written in Markdown (files ending in `.md`). 
 - [Markdown basics](https://help.github.com/articles/markdown-basics/) will cover most of what you need.
 - This site uses a variant of Markdown called [kramdown](http://kramdown.gettalong.org/quickref.html) for extra capabilities.
 
+## Search
+
+[Search engine appearance](https://www.google.com/?gws_rd=ssl#q=site:www.helenaciviccenterboard.org) can be monitored and administered via [Google Webmaster Tools](https://www.google.com/webmasters/). If there are problems with pages missing from the index request re-indexing via the [sitemap](http://www.helenaciviccenterboard.org/sitemap.xml). Use [robots.txt](robots.txt) to indicate pages that should not be indexed.
+
 ## Hosting and DNS
 
 Hosted with [Github Pages](https://pages.github.com/) as an [Organization Page](https://help.github.com/articles/user-organization-and-project-pages/#user--organization-pages). Domain name is registered at Namecheap and all DNS is there. DNS consists of two **A** records on `helenaciviccenterboard.org` that point to 192.30.252.153 and 192.30.252.154, and a **CNAME** record for `www.helenaciviccenterboard.org` that points to `helenaciviccenterboard.github.io
@@ -38,17 +42,16 @@ Use these domains in marketing materials to get visitors to the right page quick
 - [febfest.com](http://febfest.com/) redirects to http://www.helenaciviccenterboard.org/febfest/
 - [helenaciviccenterboard.com](http://helenaciviccenterboard.com/) redirects to http://www.helenaciviccenterboard.org/
 
-## Site Information
+## Developer Information
 
 - [Site Info](http://www.helenaciviccenterboard.org/info)
-- [Sitemap](http://www.helenaciviccenterboard.org/sitemap.xml) for SEO
-- [robots.txt](http://www.helenaciviccenterboard.org/robots.txt)
 - [CircleCI](https://circleci.com/gh/helenaciviccenterboard/www.helenaciviccenterboard.org)
-- Open Graph (Facebook) [Documentation](https://developers.facebook.com/docs/sharing/webmasters), [Object Debugger](https://developers.facebook.com/tools/debug/)
-- Structured Data (Google) [Documentation](https://developers.google.com/structured-data/), [Testing Tool](https://developers.google.com/structured-data/testing-tool/)
-- Twitter Cards: [Documentation](https://dev.twitter.com/cards/overview), [Validator](https://cards-dev.twitter.com/validator)
+- Social Media:
+  - Open Graph (Facebook) [Documentation](https://developers.facebook.com/docs/sharing/webmasters), [Object Debugger](https://developers.facebook.com/tools/debug/)
+  - Structured Data (Google) [Documentation](https://developers.google.com/structured-data/), [Testing Tool](https://developers.google.com/structured-data/testing-tool/)
+  - Twitter Cards: [Documentation](https://dev.twitter.com/cards/overview), [Validator](https://cards-dev.twitter.com/validator)
 
-## How to Work Locally on Linux/MacOS
+### How to Work Locally on Linux/MacOS
 
 * [Install rbenv](https://github.com/rbenv/rbenv#installation)
 * [Install ruby-build](https://github.com/rbenv/ruby-build#installation)
@@ -71,10 +74,10 @@ Start Jekyll server:
 
 Edit and view changes at http://localhost:4000/
 
-Commit changes and push to the master branch to deploy to production.
-
 Run tests:
 
 ```
 > rake test
 ```
+
+Commit changes and push to the `master` branch to deploy to production.
