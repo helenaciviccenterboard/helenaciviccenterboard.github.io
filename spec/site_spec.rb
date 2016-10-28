@@ -20,6 +20,7 @@ describe 'Web site' do
         :disable_external => true,
         :assume_extension => true,
         :check_favicon => true,
+        :check_opengraph => true,
         :file_ignore => [
           "_site/Christmas_Gift_Show.html",
           "_site/board_members.html",
