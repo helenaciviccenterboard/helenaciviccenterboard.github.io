@@ -61,7 +61,7 @@ Clone the repo:
 Install Jekyll:
 ```sh
 > cd helenaciviccenterboard.github.io
-> bundle install # same to update
+> bundle install
 ```
 
 Start Jekyll server:
