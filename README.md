@@ -50,6 +50,7 @@ Use these domains in marketing materials to get visitors to the right page quick
   - Open Graph (Facebook) [Documentation](https://developers.facebook.com/docs/sharing/webmasters), [Object Debugger](https://developers.facebook.com/tools/debug/)
   - Structured Data (Google) [Documentation](https://developers.google.com/structured-data/), [Testing Tool](https://developers.google.com/structured-data/testing-tool/)
   - Twitter Cards: [Documentation](https://dev.twitter.com/cards/overview), [Validator](https://cards-dev.twitter.com/validator)
+- [Jekyll best practices](http://ben.balter.com/jekyll-style-guide/)
 
 ### How to Work Locally on Linux/MacOS
 
