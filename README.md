@@ -42,6 +42,15 @@ Use these domains in marketing materials to get visitors to the right page quick
 - [febfest.com](http://febfest.com/) redirects to http://www.helenaciviccenterboard.org/febfest/
 - [helenaciviccenterboard.com](http://helenaciviccenterboard.com/) redirects to http://www.helenaciviccenterboard.org/
 
+## Email Addresses
+
+Use these emails in marketing materials:
+
+- <artwear@helenaciviccenterboard.org> forwards to <dooditz@bresnan.net>
+- <febfest@helenaciviccenterboard.org> forwards to <helenafebfest@gmail.com>
+- <giftshow@helenaciviccenterboard.org> forwards to <civiccentercraftshow@gmail.com>
+- <info@helenaciviccenterboard.org> forwards to <dooditz@bresnan.net>
+
 ## Developer Information
 
 - [Site Info](http://www.helenaciviccenterboard.org/info)
