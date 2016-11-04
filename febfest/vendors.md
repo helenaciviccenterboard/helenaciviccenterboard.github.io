@@ -7,7 +7,7 @@ permalink: /febfest/vendors/
 
 ## Feb. 11, 2017
 
-Registration forms will be available in November and we will begin accepting registrations on December 1.
+[Registration forms](/febfest/2017FebFestVendorBoothRegistration.pdf) will be accepted beginning December 1, 2016.
 
 Email <febfest@helenaciviccenterboard.org> for additional information.
 
