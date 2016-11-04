@@ -35,6 +35,6 @@ Rates are $70.00 per 10’ wide x 8’ deep space. No commission is charged. **S
 
 Spaces will be designated by number; failure to comply with your assigned space is grounds for removal. The Chairperson of Feb Fest is backed by the Civic Center Board and has full authority over the event in any cases of noncompliance. The Chairperson's decision is final. **Fire/safety rules require proper aisles be maintained at all times. Merchandise will not be allowed next to, or on balcony railings.**
 
-**We will confirm your registration in early January.** If space is no longer available when we receive your registration, we will place your name on the waiting list. **In case of cancellation, we will make refunds if we are notified by not later than Friday, Feb. 3, 2016.**
+**We will confirm your registration in early January.** If space is no longer available when we receive your registration, we will place your name on the waiting list. **In case of cancellation, we will make refunds if we are notified by not later than Friday, Feb. 3, 2017.**
 
 There will be a $2.00 admission charge at the door with all proceeds going to the Civic Center Improvement Fund. Your registration includes two free admissions for workers at your booth; others must pay $2.00.
