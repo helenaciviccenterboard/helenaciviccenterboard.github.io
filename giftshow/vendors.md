@@ -5,35 +5,13 @@ description: Information for vendors on registering for the Christmas Gift Shows
 permalink: /giftshow/vendors/
 ---
 
-## Nov. 5 & 12, 2016
+## Nov. 4 & 11, 2017
 
 To allow for the greatest number of participants, each individual (or group) may book space for **one day only**.
 
-The **[Gift Show Registration form](/giftshow/2016%20Helena%20Civic%20Center%20Gift%20Show%20Info%20and%20Registration.pdf)** is now available!
-
-Registrations will be accepted beginning Aug. 1, 2016.  Submitting a registration does not guarantee space in either show.  Confirmations are sent beginning in September.  If the show is full when your registration is received, you will be contacted via phone or email to be put on the waiting list.
+Registrations will be accepted beginning Aug. 1, 2017.  Submitting a registration does not guarantee space in either show.  Confirmations are sent beginning in September.  If the show is full when your registration is received, you will be contacted via phone or email to be put on the waiting list.
 
 Email <giftshow@helenaciviccenterboard.org> for additional information.
-
-----
-
-## Sep. 19, 2016  Update
-
-**Both the Nov 5 and 12 shows are now full.**  Final confirmations will be sent this week for registrations that were received prior to the show being filled.    
-
-Vendor registrations received after the last open spot was assigned, will be notified and added to our waiting list.  Payments for waiting list vendors will only be processed if space becomes available.
-
-If you have any questions, please email <giftshow@helenaciviccenterboard.org>.
-
-----
-
-## Sep. 6, 2016  Update
-
-**The Nov 5 show is full.**  Final confirmations will be sent this week for registrations that were received prior to the show being filled.    
-
-Vendor registrations received after the last open spot was assigned, will be notified and added to our waiting list.  Payments for waiting list vendors will only be processed if space becomes available.
-
-If you have any questions, please email <giftshow@helenaciviccenterboard.org>.
 
 ----
 

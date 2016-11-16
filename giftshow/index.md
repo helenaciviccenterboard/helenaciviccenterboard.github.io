@@ -10,7 +10,7 @@ img:
   src: /img/giftshow.jpeg
 ---
 
-## Nov. 5 & 12, 2016
+## Nov. 4 & 11, 2017
 
 **Admission is $2. Shoppers ten and under are free!**
 
