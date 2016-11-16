@@ -19,7 +19,7 @@ You can update most of the pages on the board site by editing them on GitHub. Fi
 
 ### Updating personnel
 
-The list of personnel on the [About Us](http://www.helenaciviccenterboard.org/about/) page are stored in [data files](_data). Update the .yml files to update personnel. Images referenced in the data files should be stored in [/img/person/](/img/person/).
+The list of personnel on the [About Us](http://www.helenaciviccenterboard.org/about/) page are stored in [data files](_data). Update the [.yml](https://en.wikipedia.org/wiki/YAML) files to update person data and ordering. Images referenced in the data files should be stored in [/img/person/](/img/person/).
 
 ## Markdown
 
