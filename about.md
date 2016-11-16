@@ -149,6 +149,12 @@ The proceeds from their three board-sponsored fundraisers each year are used by 
       <p>Bridget Johnston<br>Administrative Assistant</p>
     </div>
   </div>
+  <div class="col-xs-6 col-md-3 text-center">
+    <img src="/img/board/missing.png" alt="Angela Poole">
+    <div class="caption">
+      <p>Angela Poole<br>Civic Center Manager</p>
+    </div>
+  </div>
 </div>
 
 ## Other Sites of Interest
