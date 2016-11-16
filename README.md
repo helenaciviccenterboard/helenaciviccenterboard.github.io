@@ -35,7 +35,7 @@ Most of the pages on this site are written in Markdown (files ending in `.md`). 
 ## Hosting and DNS
 
 Hosted with [Github Pages](https://pages.github.com/) as an [Organization Page](https://help.github.com/articles/user-organization-and-project-pages/#user--organization-pages). Domain name is registered at [Namecheap](https://www.namecheap.com/) and all DNS is there. DNS consists of two **A** records on `helenaciviccenterboard.org` that point to 192.30.252.153 and 192.30.252.154, and a **CNAME** record for `www.helenaciviccenterboard.org` that points to `helenaciviccenterboard.github.io
-`. GitHub handles the redirect from `helenaciviccenterboard.org` to `www.helenaciviccenterboard.org` so that the site is served at **<www.helenaciviccenterboard.org>** according to [best practices](https://help.github.com/articles/about-custom-domains-for-github-pages-sites/).
+`. GitHub handles the redirect from `helenaciviccenterboard.org` to `www.helenaciviccenterboard.org` so that the site is served at [**www.helenaciviccenterboard.org**]( http://www.helenaciviccenterboard.org/) according to [best practices](https://help.github.com/articles/about-custom-domains-for-github-pages-sites/).
 
 ## Other Domain Names
 
