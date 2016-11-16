@@ -4,8 +4,8 @@ title: Contact Us
 description: Contact information
 permalink: /contact/
 img:
-  alt: Winter
-  src: /img/winter.jpeg
+  alt: Sunrise
+  src: /img/sunrise.jpg
 ---
 
 Helena Civic Center Board
