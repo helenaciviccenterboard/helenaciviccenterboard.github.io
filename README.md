@@ -17,6 +17,10 @@ Website for Helena Civic Center Board.
 
 You can update most of the pages on the board site by editing them on GitHub. Find the page you want to edit and then click on the :pencil2: icon. Once done editing, add a commit message at the bottom of the page and commit your changes. They are now live! (Of course, you need write privileges to this repository to commit.)
 
+### Updating personnel
+
+The list of personnel on the [About Us](http://www.helenaciviccenterboard.org/about/) page are stored in [data files](_data). Update the .yml files to update personnel. Images referenced in the data files should be stored in [/img/person/](/img/person/).
+
 ## Markdown
 
 Most of the pages on this site are written in Markdown (files ending in `.md`). Here are some docs to get you started:
