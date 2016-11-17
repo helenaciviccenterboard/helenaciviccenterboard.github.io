@@ -18,7 +18,7 @@ Website for Helena Civic Center Board.
 
 You can update most of the pages on the board site by editing them on [GitHub](https://github.com/helenaciviccenterboard/helenaciviccenterboard.github.io). Find the page you want to edit and then click on the :pencil2: icon. Once done editing, add a commit message at the bottom of the page and commit your changes. They are now live!
 
-Of course, you need write privileges to this repository to commit. First, create a [GitHub account](https://github.com/join) and then request access to the [HCCB organization](https://github.com/helenaciviccenterboard).
+Of course, you need write privileges to this repository to commit. First, create a [GitHub account](https://github.com/join) and then request access to the [helenaciviccenterboard](https://github.com/helenaciviccenterboard) organization.
 
 ### Updating personnel
 
