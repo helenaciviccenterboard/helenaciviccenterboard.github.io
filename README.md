@@ -49,6 +49,8 @@ Use these domains in marketing materials to get visitors to the right page quick
 - [febfest.com](http://febfest.com/) redirects to http://www.helenaciviccenterboard.org/febfest/
 - [helenaciviccenterboard.com](http://helenaciviccenterboard.com/) redirects to http://www.helenaciviccenterboard.org/
 
+Domains are registered at [Namecheap](https://www.namecheap.com/) and DNS and redirects are setup there.
+
 ## Email Addresses
 
 Use these emails in marketing materials:
@@ -57,6 +59,8 @@ Use these emails in marketing materials:
 - <febfest@helenaciviccenterboard.org> forwards to <helenafebfest@gmail.com>
 - <giftshow@helenaciviccenterboard.org> forwards to <civiccentercraftshow@gmail.com>
 - <info@helenaciviccenterboard.org> forwards to <dooditz@bresnan.net>
+
+Email forwarding is configured at [Namecheap](https://www.namecheap.com/).
 
 ## Developer Information
 
