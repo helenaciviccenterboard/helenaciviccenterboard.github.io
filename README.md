@@ -6,13 +6,13 @@ Website for Helena Civic Center Board.
 
 ## Table of Contents
 
-[How to Update This Site](#how-to-update-this-site)
-[Markdown](#markdown)
-[Search](#search)
-[Hosting and DNS](#hosting-and-dns)
-[Other Domain Names](#other-domain-names)
-[Email Addresses](#email-addresses)
-[Developer Information](#developer-information)
+- [How to Update This Site](#how-to-update-this-site)
+- [Markdown](#markdown)
+- [Search](#search)
+- [Hosting and DNS](#hosting-and-dns)
+- [Other Domain Names](#other-domain-names)
+- [Email Addresses](#email-addresses)
+- [Developer Information](#developer-information)
 
 ## How to Update This Site
 
