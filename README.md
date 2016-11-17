@@ -6,17 +6,14 @@ Website for Helena Civic Center Board.
 
 ## Table of Contents
 
-- [How to Update This Site](#how-to-update-this-site)
-- [Markdown](#markdown)
-- [Search](#search)
-- [Hosting and DNS](#hosting-and-dns)
-- [Other Domain Names](#other-domain-names)
-- [Email Addresses](#email-addresses)
-- [Developer Information](#developer-information)
+* Will be replaced with the toc
+{:toc}
 
 ## How to Update This Site
 
-You can update most of the pages on the board site by editing them on GitHub. Find the page you want to edit and then click on the :pencil2: icon. Once done editing, add a commit message at the bottom of the page and commit your changes. They are now live! (Of course, you need write privileges to this repository to commit.)
+You can update most of the pages on the board site by editing them on [GitHub](https://github.com/helenaciviccenterboard/helenaciviccenterboard.github.io). Find the page you want to edit and then click on the :pencil2: icon. Once done editing, add a commit message at the bottom of the page and commit your changes. They are now live!
+
+Of course, you need write privileges to this repository to commit. First, create a [GitHub account](https://github.com/join) and then request access to the [HCCB organization](https://github.com/helenaciviccenterboard).
 
 ### Updating personnel
 
@@ -59,7 +56,7 @@ Use these emails in marketing materials:
 ## Developer Information
 
 - [Site Info](http://www.helenaciviccenterboard.org/info)
-- [CircleCI](https://circleci.com/gh/helenaciviccenterboard/www.helenaciviccenterboard.org)
+- [CircleCI](https://circleci.com/gh/helenaciviccenterboard/helenaciviccenterboard.github.io)
 - Social Media:
   - Open Graph (Facebook) [Documentation](https://developers.facebook.com/docs/sharing/webmasters), [Object Debugger](https://developers.facebook.com/tools/debug/)
   - Structured Data (Google) [Documentation](https://developers.google.com/structured-data/), [Testing Tool](https://developers.google.com/structured-data/testing-tool/)
