@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-# gem 'github-pages'
-gem "github-pages", ">=104" #https://github.com/github/pages-gem/issues/351
+gem 'github-pages'
 gem 'rake'
 gem 'rspec'
 gem 'html-proofer'
