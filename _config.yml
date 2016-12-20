@@ -20,7 +20,6 @@ sass:
 
 # Build settings
 gems:
-  - jekyll-github-metadata
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
