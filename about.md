@@ -1,6 +1,5 @@
 ---
 layout: default
-redirect_from: /board_members.html
 title: About Us
 description: History and purpose of the Helena Civic Center Board
 permalink: /about/

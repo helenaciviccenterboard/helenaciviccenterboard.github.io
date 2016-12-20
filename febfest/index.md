@@ -1,6 +1,5 @@
 ---
 layout: picture
-redirect_from: /feb_fest.html
 title: Feb Fest Chocolate and Valentine Fair
 description: Feb Fest is our annual chocolate, Valentine's Day gifts, arts and crafts fair at the Helena Civic Center.
 img:
