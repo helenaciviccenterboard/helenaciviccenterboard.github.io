@@ -7,9 +7,22 @@ permalink: /febfest/vendors/
 
 ## Feb. 11, 2017
 
+<div class="panel panel-default">    
+  <div class="panel-heading">    
+    <h3 class="panel-title">Jan 20, 2017 Update</h3>    
+  </div>    
+  <div class="panel-body">    
+    <p>    
+      <b>Feb Fest is now full.</b> Vendor registrations received after the last open spot was assigned, will be notified and added to our waiting list. Payments for waiting list vendors will only be processed if space becomes available. If you have any questions, please <a href="mailto:febfest@helenaciviccenterboard.org">email us</a>.    
+    </p>    
+  </div>    
+</div>
+
+{% comment %}
 [Registration forms](/febfest/2017FebFestVendorBoothRegistration.pdf) will be accepted beginning December 1, 2016.
 
 Email <febfest@helenaciviccenterboard.org> for additional information.
+{% endcomment %}
 
 One of Helena’s most popular events welcomes vendors who sell chocolate, candy, dessert delicacies, Valentine gifts, arts and crafts:
 
