@@ -1,7 +1,7 @@
 <tr>
   <td>
-    <b>{{ i.name }}</b>
-    <br>{{ i.location }}
+    <b>{{ i.name | escape }}</b>
+    <br>{{ i.location | escape }}
   </td>
-  <td>{{ i.items | capitalize }}</td>
+  <td>{{ i.items | escape | capitalize }}</td>
 </tr>
