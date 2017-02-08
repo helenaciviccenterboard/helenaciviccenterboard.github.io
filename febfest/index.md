@@ -19,6 +19,8 @@ With about 70 vendors, it is a fun place to get those special Valentine gifts fo
 
 Entertainment will be provided throughout the day including door prizes and [Artwear Fashion Shows](/fashionshow/). The Artwear Fashion Shows will be at 12:00 noon and 1:30 p.m. A snack bar with food and refreshments will also be open during the fair.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jhjfr8FFdwA" frameborder="0" allowfullscreen></iframe>
+
 All proceeds from the show will go to the Civic Center Improvement Fund.
 
 Email <febfest@helenaciviccenterboard.org> for additional information.
