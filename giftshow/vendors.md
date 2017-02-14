@@ -9,7 +9,9 @@ permalink: /giftshow/vendors/
 
 To allow for the greatest number of participants, each individual (or group) may book space for **one day only**.
 
-Registrations will be accepted beginning Aug. 1, 2017.  Submitting a registration does not guarantee space in either show.  Confirmations are sent beginning in September.  If the show is full when your registration is received, you will be contacted via phone or email to be put on the waiting list.
+**Registration forms will be online Jul. 15. Registrations will be accepted beginning Aug. 1, 2017.**
+
+Submitting a registration does not guarantee space in either show.  Confirmations are sent beginning in September.  If the show is full when your registration is received, you will be contacted via phone or email to be put on the waiting list.
 
 Email <giftshow@helenaciviccenterboard.org> for additional information.
 
