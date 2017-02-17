@@ -7,19 +7,15 @@ img:
   src: /img/febfest.jpeg
 ---
 
-## Feb. 11, 2017
+## Feb. 10, 2018
 
 **Admission is $2. Shoppers ten and under are free!**
 
 Feb Fest is our annual chocolate, Valentine's Day gifts, arts and crafts fair at the Helena Civic Center.
 
-With about 70 vendors, it is a fun place to get those special Valentine gifts for all the "sweeties" in your life. There will be chocolate, treats and Valentine gifts including a host of Montana made arts, crafts and jewelry.
+With about 70 vendors, it is a fun place to get those special Valentine gifts for all the "sweeties" in your life. There will be chocolate, treats and Valentine gifts including a host of Montana made arts, crafts and jewelry. A snack bar with food and refreshments will also be open during the fair.
 
-**[See a list of all our vendors for 2017!](vendors-2017)**
-
-Entertainment will be provided throughout the day including door prizes and [Artwear Fashion Shows](/fashionshow/). The Artwear Fashion Shows will be at 12:00 noon and 1:30 p.m. A snack bar with food and refreshments will also be open during the fair.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jhjfr8FFdwA" frameborder="0" allowfullscreen></iframe>
+**[See a list of our vendors from 2017!](febfest-vendors)**
 
 All proceeds from the show will go to the Civic Center Improvement Fund.
 
