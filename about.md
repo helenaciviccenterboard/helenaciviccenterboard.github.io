@@ -17,11 +17,10 @@ In the years of its existence, the Civic Center Board has raised and spent over 
 
 Eighteen dedicated board members and a Civic Center Staff of only six people keep the huge facility humming along.  The board works from a continually revised Five Year Plan (the wish list of building improvements).  The Board feels they have only gotten a good start on the potential of this facility, and their efforts will be rewarded as they see the building continue to thrive and be used for events that enrich the quality of life in the community of Helena.  Meanwhile these energetic and innovative volunteers continue to hold Board sponsored events to raise monies for the betterment of the building.
 
-The proceeds from their three board-sponsored fundraisers each year are used by the City of Helena Civic Center Advisory Board to improve the building.  The fundraisers are two [Christmas Gift Shows][1] the first two weeks of November and the [Feb Fest][2] and [Artwear Fashion Shows][3] in February each year.  Entry forms for these events may be found on this website.
+The proceeds from board-sponsored fundraisers are used by the City of Helena Civic Center Advisory Board to improve the building.  The fundraisers are two [Christmas Gift Shows][1] the first two weeks of November and the [Feb Fest][2] in February each year.  Vendor information for these events may be found on this website.
 
 [1]: /giftshow/
 [2]: /febfest/
-[3]: /fashionshow/
 
 ## Board Officers
 
