@@ -9,7 +9,7 @@ permalink: /giftshow/vendors/
 
 To allow for the greatest number of participants, each individual (or group) may book space for **one day only**.
 
-**Registration forms will be online Jul. 15. Registrations will be accepted beginning Aug. 1, 2017.**
+The **[Gift Show Registration form](/giftshow/Helena%20Civic%20Center%20Board%20Gift%20Shows%20Vendor%20Info%20and%20Form%202017.pdf)** is now available!
 
 Submitting a registration does not guarantee space in either show.  Confirmations are sent beginning in September.  If the show is full when your registration is received, you will be contacted via phone or email to be put on the waiting list.
 
@@ -24,7 +24,7 @@ Email <giftshow@helenaciviccenterboard.org> for additional information.
 * Limit of two spaces per individual or group (each space is 10’ wide and 8’ deep).
 * Registration must include fee (check or money order).
 * There will be a charge for any returned checks and subject to collection if the Board is not reimbursed as requested.
-* Two chairs and one 8’ x 2’ table will be provided per space.
+* Two chairs and one 8’ x 2.5’ table will be provided per space.
 * Food vendors must contact the City/County Health Department at 406.447.8361 or 447.8352 (Mon. – Fri. 1 - 5 PM) two weeks prior for either a short term permit or license.
 * The Civic Center is a smoke-free facility.
 * Vendors are responsible for any display equipment and merchandise. The Civic Center Board is not responsible for loss, theft or damage.
