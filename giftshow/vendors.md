@@ -17,6 +17,12 @@ Email <giftshow@helenaciviccenterboard.org> for additional information.
 
 ----
 
+## Sep. 10, 2017 Update
+
+**Our Nov. 11 show is now full.**  We are in the process of sending confirmations, depositing checks and contacting vendors with the option to be placed on a waiting list.
+
+----
+
 ## Sep. 1, 2017 Update
 
 **The Nov. 4 show is full.** We are no longer accepting registrations for that date.  We are in the process of sending confirmations, depositing checks and contacting vendors with the option to be placed on a waiting list or move to the Nov. 11 show.
