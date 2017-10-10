@@ -5,36 +5,35 @@ description: Information for vendors on registering for the Christmas Gift Shows
 permalink: /giftshow/vendors/
 ---
 
-## Nov. 4 & 11, 2017
+**The 2017 gift shows are on Nov. 4 and Nov. 11.**
 
 To allow for the greatest number of participants, each individual (or group) may book space for **one day only**.
 
-The **[Gift Show Registration form](/giftshow/Helena%20Civic%20Center%20Board%20Gift%20Shows%20Vendor%20Info%20and%20Form%202017.pdf)** is now available!
-
-Submitting a registration does not guarantee space in either show.  Confirmations are sent beginning in September.  If the show is full when your registration is received, you will be contacted via phone or email to be put on the waiting list.
+Submitting a registration form does not guarantee space in either show.  Confirmations are sent beginning in September.  If the show is full when your registration form is received, you will be contacted via phone or email to be put on the waiting list.
 
 Email <giftshow@helenaciviccenterboard.org> for additional information.
 
-----
+## Registration Form
 
-## Sep. 10, 2017 Update
+The registration form will be available on this page by Jul. 15, 2017. Registration forms will be accepted beginning Aug. 1, 2017.
 
-**Our Nov. 11 show is now full.**  We are in the process of sending confirmations, depositing checks and contacting vendors with the option to be placed on a waiting list.
+<!-- uncomment following when form is available -->
+<!-- The **[Gift Show Registration form](/giftshow/Helena%20Civic%20Center%20Board%20Gift%20Shows%20Vendor%20Info%20and%20Form%202017.pdf)** is now available to download. -->
 
-----
+<!-- uncomment following when both shows are full -->
+**Both shows are full!** We are no longer accepting registration forms. We are in the process of sending confirmations, depositing checks and contacting vendors with the option to be placed on a waiting list.
 
-## Sep. 1, 2017 Update
+<!-- uncomment following when a show is full -->
+<!-- ### Sep. 1, 2017 Update
 
-**The Nov. 4 show is full.** We are no longer accepting registrations for that date.  We are in the process of sending confirmations, depositing checks and contacting vendors with the option to be placed on a waiting list or move to the Nov. 11 show.
-
-----
+**The Nov. 4 show is full.** We are no longer accepting registrations for that date.  We are in the process of sending confirmations, depositing checks and contacting vendors with the option to be placed on a waiting list or move to the Nov. 11 show. -->
 
 ## Booth Rental Information
 
 * $75.00 per space if submitted by October 1.
 * $85.00 per space after October 1.
 * Limit of two spaces per individual or group (each space is 10’ wide and 8’ deep).
-* Registration must include fee (check or money order).
+* Registration form must include fee (check or money order).
 * There will be a charge for any returned checks and subject to collection if the Board is not reimbursed as requested.
 * Two chairs and one 8’ x 2.5’ table will be provided per space.
 * Food vendors must contact the City/County Health Department at 406.447.8361 or 447.8352 (Mon. – Fri. 1 - 5 PM) two weeks prior for either a short term permit or license.
