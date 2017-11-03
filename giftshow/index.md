@@ -9,7 +9,7 @@ img:
 
 ## Nov. 4 & 11, 2017
 
-**Admission is $2. Shoppers ten and under are free!**
+**9 a.m. – 4 p.m. Admission is $2. Shoppers ten and under are free!**
 
 Each November the Helena Civic Center Board presents two Christmas Gift Shows at the Civic Center Ballroom as a fund-raising event to pay for the board's renovations and improvements at the Civic Center.  The Civic Center Board's Christmas Gift shows have become a traditional social event for Helenans.  It's a pleasant way to spend a Saturday, browsing through the crafts, shopping for that special Christmas gift, visiting with friends and neighbors, and enjoying refreshments or lunch at the snack bar. Each show features over 80 crafters.  Each vendor is only allowed to exhibit in one of the shows, so **each Saturday is unique and different**, and if you miss one weekend you miss half the fun.
 

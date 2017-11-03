@@ -9,7 +9,7 @@ img:
 
 ## Feb. 10, 2018
 
-**Admission is $2. Shoppers ten and under are free!**
+**9 a.m. – 4 p.m. Admission is $2. Shoppers ten and under are free!**
 
 Feb Fest is our annual chocolate, Valentine's Day gifts, arts and crafts fair at the Helena Civic Center.
 
