@@ -8,10 +8,10 @@ permalink: /febfest/vendors/
 ## Feb. 10, 2018
 
 <!-- uncomment following while waiting for registration period -->
-Registration forms will be available in November and we will begin accepting registrations on December 1, 2017.
+<!-- Registration forms will be available in November and we will begin accepting registrations on December 1, 2017. -->
 
 <!-- uncomment following when form is available -->
-<!-- [Registration forms](/febfest/2017FebFestVendorBoothRegistration.pdf) will be accepted beginning December 1, 2017. -->
+[Registration forms](/febfest/2018FebFestVendorBoothRegistration.pdf) will be accepted beginning December 1, 2017.
 
 <!-- uncomment following when the show is full -->
 <!-- ### Sep. 1, 2017 Update
