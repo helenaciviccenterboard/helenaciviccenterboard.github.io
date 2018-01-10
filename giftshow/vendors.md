@@ -5,7 +5,7 @@ description: Information for vendors on registering for the Christmas Gift Shows
 permalink: /giftshow/vendors/
 ---
 
-**The 2017 gift shows are on Nov. 4 and Nov. 11.**
+**The 2018 gift shows are on Nov. 3 and Nov. 10.**
 
 To allow for the greatest number of participants, each individual (or group) may book space for **one day only**.
 
@@ -15,13 +15,13 @@ Email <giftshow@helenaciviccenterboard.org> for additional information.
 
 ## Registration Form
 
-The registration form will be available on this page by Jul. 15, 2017. Registration forms will be accepted beginning Aug. 1, 2017.
+The registration form will be available on this page by Jul. 15, 2018. Registration forms will be accepted beginning Aug. 1, 2018.
 
 <!-- uncomment following when form is available -->
 <!-- The **[Gift Show Registration form](/giftshow/Helena%20Civic%20Center%20Board%20Gift%20Shows%20Vendor%20Info%20and%20Form%202017.pdf)** is now available to download. -->
 
 <!-- uncomment following when both shows are full -->
-**Both shows are full!** We are no longer accepting registration forms. We are in the process of sending confirmations, depositing checks and contacting vendors with the option to be placed on a waiting list.
+<!-- **Both shows are full!** We are no longer accepting registration forms. We are in the process of sending confirmations, depositing checks and contacting vendors with the option to be placed on a waiting list. -->
 
 <!-- uncomment following when a show is full -->
 <!-- ### Sep. 1, 2017 Update
