@@ -15,7 +15,7 @@ Feb Fest is our annual chocolate, Valentine's Day gifts, arts and crafts fair at
 
 With about 70 vendors, it is a fun place to get those special Valentine gifts for all the "sweeties" in your life. There will be chocolate, treats and Valentine gifts including a host of Montana made arts, crafts and jewelry. A snack bar with food and refreshments will also be open during the fair.
 
-**[See a list of our vendors from 2017!](febfest-vendors)**
+**[See a list of our vendors for 2018!](febfest-vendors)**
 
 All proceeds from the show will go to the Civic Center Improvement Fund.
 
