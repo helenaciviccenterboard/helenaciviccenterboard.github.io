@@ -17,6 +17,8 @@ With about 70 vendors, it is a fun place to get those special Valentine gifts fo
 
 **[See a list of our vendors for 2018!](febfest-vendors)**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cFivcqd-VQ8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 All proceeds from the show will go to the Civic Center Improvement Fund.
 
 Email <febfest@helenaciviccenterboard.org> for additional information.
