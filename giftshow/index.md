@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: picture
 title: Christmas Gift Shows
 description: The Christmas Gift Shows are a pleasant way to spend a Saturday, browsing through the crafts, shopping for that special Christmas gift, visiting with friends and neighbors, and enjoying refreshments or lunch at the snack bar.
 img:
