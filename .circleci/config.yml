@@ -3,11 +3,13 @@ jobs:
   build:
     docker:
       - image: circleci/ruby:2.4.1
+        environment:
+          TZ: "/usr/share/zoneinfo/America/Denver"
     steps:
       - checkout
       - run: bundle install
       - run: bundle exec rake build
-      - run: bundle exec rspec -r rspec_junit_formatter --format RspecJunitFormatter -o $CIRCLE_TEST_REPORTS/rspec/junit.xml
+      - run: bundle exec rspec
 
 # machine:
 #   timezone: America/Denver
