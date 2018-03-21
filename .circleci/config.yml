@@ -1,0 +1,17 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.4.1
+    steps:
+      - checkout
+      - run: bundle exec rake build
+
+# machine:
+#   timezone: America/Denver
+
+# test:
+#   pre:
+#     - bundle exec rake build
+#   override:
+#     - bundle exec rspec -r rspec_junit_formatter --format RspecJunitFormatter -o $CIRCLE_TEST_REPORTS/rspec/junit.xml
