@@ -30,8 +30,8 @@ The **[Gift Show Registration form](/giftshow/2018 Helena Civic Center Board Gif
 
 ## Booth Rental Information
 
-* $75.00 per space if submitted by October 1.
-* $85.00 per space after October 1.
+* $80.00 per space if submitted by October 1.
+* $90.00 per space after October 1.
 * Limit of two spaces per individual or group (each space is 10’ wide and 8’ deep).
 * Registration form must include fee (check or money order).
 * There will be a charge for any returned checks and subject to collection if the Board is not reimbursed as requested.
@@ -47,4 +47,4 @@ The **[Gift Show Registration form](/giftshow/2018 Helena Civic Center Board Gif
 * Saturday set-up begins at 7 AM and must be completed by 9 AM.
 * Sale is open to the public from 9 AM - 4 PM each Saturday. Displays are to be kept in place until sale closes.
 * Vendor parking is available at the Great Northern Town Center Parking Garage and is free on weekends beginning Fridays at 8 pm. You will be charged for parking if you enter the garage before 8 pm Friday. Please move your vehicle(s) from Civic Center area prior to the start of the sale for shoppers. Note: Vehicles without handicap passes may be ticketed if parked in designated handicapped parking.
-* Two free admissions per space for workers (additional workers must pay $2 admission). Spaces will be designated by number and are non-transferable. Failure to comply with your assigned space constitutes grounds for removal. The Chairperson has full authority in any cases of noncompliance, and the Chairperson’s decision is final. For Fire/Safety concerns proper aisle ways must be maintained at all times. Merchandise will not be allowed next to, or on the railings of the mezzanine.
+* Two free admissions per space for workers (additional workers must pay $3 admission). Spaces will be designated by number and are non-transferable. Failure to comply with your assigned space constitutes grounds for removal. The Chairperson has full authority in any cases of noncompliance, and the Chairperson’s decision is final. For Fire/Safety concerns proper aisle ways must be maintained at all times. Merchandise will not be allowed next to, or on the railings of the mezzanine.
