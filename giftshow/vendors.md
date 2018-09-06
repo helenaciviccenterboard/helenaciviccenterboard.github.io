@@ -13,6 +13,10 @@ Submitting a registration form does not guarantee space in either show.  Confirm
 
 Email <giftshow@helenaciviccenterboard.org> for additional information.
 
+VENDOR UPDATE: As of September 1, the November 3, 2018 show is full! 
+
+Vendors that submitted registrations after the show reached maximum capacity, will be contacted and given the option to be placed on our waiting list or switch to the Nov 10th show until it is full. 
+
 ## Registration Form
 
 The registration form will be available on this page by Jul. 15, 2018. Registration forms will be accepted beginning Aug. 1, 2018.
