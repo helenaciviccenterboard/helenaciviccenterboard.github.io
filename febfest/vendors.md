@@ -11,7 +11,7 @@ permalink: /febfest/vendors/
 <!--Registration forms will be available in November and we will begin accepting registrations on December 1, 2018.-->
 
 <!-- uncomment following when form is available -->
-[Registration forms](helenaciviccenterboard.github.io/FebFest 2019 REGISTRATION FORM (1).pdf) will be accepted beginning December 1, 2018.
+[Registration forms] (helenaciviccenterboard.github.io/febfest/FebFest 2019 REGISTRATION FORM (1).pdf) will be accepted beginning December 1, 2018.
 
 <!-- uncomment following when the show is full -->
 <!-- ### Sep. 1, 2017 Update
